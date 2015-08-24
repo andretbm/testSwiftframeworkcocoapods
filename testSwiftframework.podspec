@@ -19,6 +19,6 @@ s.author            = {
   s.platform     = :ios
 s.source       = { :git => 'https://github.com/andretbm/testSwiftframeworkcocoapods.git', :tag => s.version }
   s.source_files  = '*.swift'
-  s.public_header_files = 'IGMainViewController.swift'
+ s.ios.deployment_target = '8.0'
   s.requires_arc = true
 end
