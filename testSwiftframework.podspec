@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'testSwiftframework'
-  s.version      = '1.0.0.0'
+  s.version      = '1.0.0.1'
   s.summary      = 'SurveyPlugin'
   s.homepage   = 'https://github.com/andretbm/testSwiftframeworkcocoapods.git'
   s.description  = <<-DESC
@@ -20,7 +20,7 @@ s.author            = {
 }
 
 s.platform     = :ios
-s.source       = { :git => 'https://github.com/andretbm/testSwiftframeworkcocoapods.git', :tag => '1.0.0.0' }
+s.source       = { :git => 'https://github.com/andretbm/testSwiftframeworkcocoapods.git', :tag => '1.0.0.1' }
 s.source_files  = 'ignidataSurveyPlugin.framework/Headers/*.h'
 s.public_header_files = 'ignidataSurveyPlugin.framework/Headers/*.h'
 s.vendored_frameworks = '*.framework'
