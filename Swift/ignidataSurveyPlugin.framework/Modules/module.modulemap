@@ -1,0 +1,10 @@
+framework module ignidataSurveyPlugin {
+  umbrella header "ignidataSurveyPlugin.h"
+
+  export *
+  module * { export * }
+}
+
+module ignidataSurveyPlugin.Swift {
+    header "ignidataSurveyPlugin-Swift.h"
+}
