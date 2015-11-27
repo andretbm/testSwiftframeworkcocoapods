@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'testSwiftframeworOBJective-C'
+  s.name         = 'testSwiftframeworObJectiveC'
   s.version      = '1.0.0.4'
   s.summary      = 'SurveyPlugin'
   s.homepage   = 'https://github.com/andretbm/testSwiftframeworkcocoapods.git'
